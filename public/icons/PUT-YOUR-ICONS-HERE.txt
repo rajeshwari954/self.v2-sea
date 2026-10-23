@@ -1,0 +1,3 @@
+Copy the three icon files from your current app's public/icons folder into this folder:
+  icon-192.png, icon-512.png, apple-touch-icon.png
+Then delete this note. (The app works without them, but the home-screen icon will be blank.)
